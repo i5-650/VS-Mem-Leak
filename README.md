@@ -1,5 +1,5 @@
 # VS-Mem-Leak
-A simple Vsual Studio tool that is use to check if there are some memory leak in my C/C++ code.
+A simple Visual Studio tool that i use to check if there are some memory leak in my C/C++ code.
 
 ## How to use
 You just had those 2 lines.
@@ -18,3 +18,6 @@ int main(){
 ```
 When the program will end, it will ask you to press any key of you've finished reading the debug console. 
 Every informations will be in there.
+
+## Note
+It work **only** on Visual Studio (so on Windows). If you're a linux user, you can directly use valgrind.
