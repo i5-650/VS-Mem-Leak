@@ -2,7 +2,7 @@
 A simple Visual Studio tool that i use to check if there are some memory leak in my C/C++ code.
 
 ## How to use
-You just had those 2 lines.
+You just have to add those 2 lines.
 ```c
 #include "mem_leak.h"
 
