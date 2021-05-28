@@ -3,7 +3,6 @@
 #include <crtdbg.h>
 #include <Windows.h>
 #include <conio.h>
-#include "color.h"
 
 _CrtMemState init_valgrind() {
     _CrtMemState sOld;
